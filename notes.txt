@@ -1,0 +1,25 @@
+Workflow Anda Kedepannya 
+
+Ingat ini: 
+
+   Untuk Mulai Bekerja:
+      Buka terminal.
+      cd ... ke folder proyek.
+      source venv/bin/activate.
+      Buka VS Code dan mulai coding di main.py, barang.py, dll.
+      
+   Untuk Selesai Bekerja:
+      Kembali ke terminal.
+      Ketik deactivate. Prefix (venv) akan hilang.
+
+Tugas Pertama Anda: 
+
+   Lakukan Langkah 1, 2, dan 3 di atas.
+   Buka file barang.py dan mulailah menulis kode class Barang yang sudah Anda pelajari.
+   Buka file inventory_system.py dan tulis class InventorySystem.
+   Buka main.py dan buat logika untuk memanggil class-class tersebut.
+     
+
+Anda sudah memiliki semua fondasi yang dibutuhkan. Sekarang saatnya untuk membangun! Mulailah dari yang paling sederhana: definisikan class-class Anda terlebih dahulu. 
+
+Jika ada kendala saat menulis kode atau saat menginstall library, jangan ragu untuk bertanya. Saya siap membantu Anda di tahap pengkodean ini. Selamat berkarya! 🚀 
